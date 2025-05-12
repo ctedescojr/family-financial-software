@@ -6,4 +6,4 @@ from django.db import models
 
 # Create a vehicle class, with fuel for km/l, average cost by km
 
-# Create a product 
+# Create a product
