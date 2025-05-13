@@ -13,6 +13,7 @@ Family Finances is a web application built with **Django**, **Vite** and **Tailw
   - Store score
   - Registered home location for distance calculation with Google Maps API
   - Fuel cost estimation based on registered vehicles
+  - Price Update via Invoice Upload: Users can upload an invoice or receipt, and an AI-powered OCR (Optical Character Recognition) model will extract the product information and update the prices automatically
 
 ## Front-End Features
 
@@ -32,6 +33,7 @@ In the front-end interface, users can:
 - **Vite** (Front-end)
 - **TailwindCSS v4.0** (Front-end)
 - **Google Maps API** for distance calculations
+- **OCR** and **AI Model** for product recognition from invoices
 
 ## Getting Started
 
