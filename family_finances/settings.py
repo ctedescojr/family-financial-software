@@ -55,7 +55,7 @@ MIDDLEWARE = [
     "django.middleware.clickjacking.XFrameOptionsMiddleware",
 ]
 
-ROOT_URLCONF = "family_fanances.urls"
+ROOT_URLCONF = "family_finances.urls"
 
 TEMPLATES = [
     {
@@ -75,7 +75,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = "family_fanances.wsgi.application"
+WSGI_APPLICATION = "family_finances.wsgi.application"
 
 
 # Database
