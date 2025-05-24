@@ -16,4 +16,4 @@ def home(request):
 # MARK: ABOUT
 @login_required
 def about(request):
-    return render(request, "pages/about.html", {})
+    return render(request, "expenses/pages/about.html", {})

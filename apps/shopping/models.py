@@ -8,7 +8,7 @@ class Vehicle(models.Model):
         verbose_name = "01 - Veículo"
         verbose_name_plural = "01 - Veículos"
 
-    vehicle_name = models.CharField(max_lenght=150)
+    vehicle_name = models.CharField(max_length=150)
 
     fuel = models.CharField(
         max_length=1,
